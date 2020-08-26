@@ -1,4 +1,4 @@
-# endbot.kro.kr
-- Site: http://endbot.kro.kr
+# endbot.ml
+- Site: http://endbot.ml
 - Usage: Information about myself
 # used alexflipnote.dev
