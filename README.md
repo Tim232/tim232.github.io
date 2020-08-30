@@ -2,4 +2,4 @@
 - Site: https://endbot.ml
 - Usage: Information about myself
 
-####### used alexflipnote.dev
+###### used alexflipnote.dev
