@@ -1,2 +1,2 @@
 For best and full experience, please visit:<br>
-[https://endbot.ml/history](https://endbot.ml/history)
+[https://tim23.me/history](https://tim23.me/history)
